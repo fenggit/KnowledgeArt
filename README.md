@@ -4,7 +4,7 @@
 
 > 微信公众号：**见闻阅读**同步更新
 
-![见闻阅读](image/jianwen-logo-0.5m)
+![见闻阅读](image/jianwen-logo-0.5m.jpg)
 
 - [见闻00 - 模板标题 - 2019.02.22](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB00%20-%20%E6%A8%A1%E6%9D%BF%E6%A0%87%E9%A2%98%20-%202019.02.22.md)
 
