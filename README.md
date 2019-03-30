@@ -18,4 +18,4 @@
 
 - [见闻05 - 掉入地下一万米 - 2019.03.23](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB05%20-%20%E6%8E%89%E5%85%A5%E5%9C%B0%E4%B8%8B%E4%B8%80%E4%B8%87%E7%B1%B3%20-%202019.03.23.md)
 
-- [见闻06 - 为什么有时候发朋友圈文字会被折叠 - 2019.03.30](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB05%20-%20%E6%8E%89%E5%85%A5%E5%9C%B0%E4%B8%8B%E4%B8%80%E4%B8%87%E7%B1%B3%20-%202019.03.23.md)
+- [见闻06 - 为什么有时候发朋友圈文字会被折叠 - 2019.03.30](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB06%20-%20%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E6%97%B6%E5%80%99%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E5%AD%97%E4%BC%9A%E8%A2%AB%E6%8A%98%E5%8F%A0%20-%202019.03.30.md)
