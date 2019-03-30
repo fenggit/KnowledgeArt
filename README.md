@@ -17,3 +17,5 @@
 - [见闻04 - 废掉一个人最隐蔽的方式 - 2019.03.17](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB04%20-%20%E5%BA%9F%E6%8E%89%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E9%9A%90%E8%94%BD%E7%9A%84%E6%96%B9%E5%BC%8F%20-%202019.03.17.md)
 
 - [见闻05 - 掉入地下一万米 - 2019.03.23](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB05%20-%20%E6%8E%89%E5%85%A5%E5%9C%B0%E4%B8%8B%E4%B8%80%E4%B8%87%E7%B1%B3%20-%202019.03.23.md)
+
+- [见闻06 - 为什么有时候发朋友圈文字会被折叠 - 2019.03.30](https://github.com/fenggit/KnowledgeArt/blob/master/%E8%A7%81%E9%97%BB05%20-%20%E6%8E%89%E5%85%A5%E5%9C%B0%E4%B8%8B%E4%B8%80%E4%B8%87%E7%B1%B3%20-%202019.03.23.md)
